@@ -27,7 +27,7 @@ map.html
 <font color="red"><b>GUINDY</b></font>
 </h1>
 <h3 align="center">
-<font color="blue"><b>AFSAR JUMAIL(22009051))</b></font>
+<font color="blue"><b>SAFEEQ FAZIL(22008366)</b></font>
 </h3>
 <center>
 <img src="/static/images/nearmemap.png" usemap="#MyCity" height="420" width="1100">
