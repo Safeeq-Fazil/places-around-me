@@ -15,8 +15,7 @@ write the html codes
 Step 4:
 run the django server and execute the html files
 
-Code:
-map.html
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -42,10 +41,10 @@ map.html
 </body>
 </html>
 
-
+```
 
 bus.html
-
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -72,8 +71,9 @@ The site has a colonial church and panoramic views.
 </p>
 </body>
 </html>
-
+```
 park.html
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -100,8 +100,9 @@ Simple and relax with play area.
 </p>
 </body>
 </html>
-
+```
 rto.html
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -125,8 +126,9 @@ RTOs are also responsible for improving road and vehicle safety, especially to a
 </p>
 </body>
 </html>
-
+```
 ghs.html
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -153,9 +155,10 @@ The main objectives of guindy Government Higher Secondary School are
 </p>
 </body>
 </html>
-
+```
 
 vk.html
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -183,9 +186,10 @@ vk.html
 </body>
 </html>
 
-
+```
 
 ## Output:
+
 ![map a](https://user-images.githubusercontent.com/118680361/215143225-3ba3912b-a93b-49b4-924d-81641f3d1690.png)
 ![map2](https://user-images.githubusercontent.com/118680361/215143295-e11cd27a-f6d0-4265-8068-25f696781b67.png)
 ![map3](https://user-images.githubusercontent.com/118680361/215143365-f8077709-779a-4121-8063-4d4fa119b285.png)
